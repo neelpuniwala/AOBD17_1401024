@@ -1,0 +1,19 @@
+$python DNN_Mnist.py 
+
+
+Extracting /tmp/data/train-images-idx3-ubyte.gz
+Extracting /tmp/data/train-labels-idx1-ubyte.gz
+Extracting /tmp/data/t10k-images-idx3-ubyte.gz
+Extracting /tmp/data/t10k-labels-idx1-ubyte.gz
+Epoch: 0 / 10 : loss: 1629304.39607
+Epoch: 1 / 10 : loss: 423201.18968
+Epoch: 2 / 10 : loss: 229041.802648
+Epoch: 3 / 10 : loss: 135996.763671
+Epoch: 4 / 10 : loss: 82811.0410302
+Epoch: 5 / 10 : loss: 54834.1570132
+Epoch: 6 / 10 : loss: 32059.623253
+Epoch: 7 / 10 : loss: 24728.284753
+Epoch: 8 / 10 : loss: 21025.5125853
+Epoch: 9 / 10 : loss: 19434.9115586
+Accuracy: 0.9511
+
