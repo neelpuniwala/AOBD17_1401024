@@ -7,5 +7,5 @@ Robust PCA
 Submission2
 Comparative Study of RPCA and EM algorithm
 
-Submissiom3
+Submission3
 Deep neural network
