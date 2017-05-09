@@ -1,17 +1,17 @@
 # AOBD17_1401024
 AOBD Submissions
  
-Submission1
+- Submission1
 Robust PCA
 
-Submission2
+- Submission2
 Comparative Study of RPCA and EM algorithm
 
-Submission3
+- Submission3
 Deep neural network
 
-Submission4
+- Submission4
 Implimentation of DCGAN
 
-End Semester Examination
+- End Semester Examination
 Career path Recommendation System
